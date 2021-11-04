@@ -1,4 +1,4 @@
-GO111MODULE=""
+GO111MODULE="on"
 GOARCH="amd64"
 GOBIN=""
 GOCACHE="/home/yifeizhang/.cache/go-build"
